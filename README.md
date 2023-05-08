@@ -41,7 +41,7 @@ Connected to the blocknumber 3445212
 Connected to the address 0x1A433dB77813FA4257452B8aCd14d98C8BecB9Fb
 Balance is 10000000000000000 WEI
 The chairperson for this ballot is 0xbC3a67EC1664d540C17Aeb8F6Bea5bA89AdB9e15
-Voting to proposal 1
+Voting for proposal 1
 Transaction completed at block 3445213 with hash 0x4d25611315488763e583f508c0577dc8951d52e0e78f88784f08193f347a2179
 ```
 
