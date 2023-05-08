@@ -6,7 +6,6 @@
 
 ```console
 srene@macpro project % yarn run ts-node --files ./scripts/Ballot.ts Chocolate Strawberry Vanilla Coconut
-Connected to the address 0xbC3a67EC1664d540C17Aeb8F6Bea5bA89AdB9e15
 Connected to the blocknumber 3444495
 Connected to the address 0xbC3a67EC1664d540C17Aeb8F6Bea5bA89AdB9e15
 Balance is 45846436482818548 WEI
@@ -25,8 +24,7 @@ Transaction completed at block 3444497 with hash 0x7c9684dcd01cf1e1d87010904790c
 ### Voting rights
 
 ```console
-srene@macpro project %yarn run ts-node --files ./scripts/BallotVote.ts       
-Connected to the address 0x1A433dB77813FA4257452B8aCd14d98C8BecB9Fb
+srene@macpro project % yarn run ts-node --files ./scripts/BallotVote.ts       
 Connected to the blocknumber 3445212
 Connected to the address 0x1A433dB77813FA4257452B8aCd14d98C8BecB9Fb
 The ballot contract was deployed at the address 0xf0345F5c553ac4b48600c60ac4deCFAa9e98e877 at the block number 3444496
@@ -38,8 +36,7 @@ Transaction completed at block 3444497 with hash 0x7c9684dcd01cf1e1d87010904790c
 ### Vote cast
 
 ```console
-srene@macpro project %yarn run ts-node --files ./scripts/BallotVote.ts       
-Connected to the address 0x1A433dB77813FA4257452B8aCd14d98C8BecB9Fb
+srene@macpro project % yarn run ts-node --files ./scripts/BallotVote.ts       
 Connected to the blocknumber 3445212
 Connected to the address 0x1A433dB77813FA4257452B8aCd14d98C8BecB9Fb
 Balance is 10000000000000000 WEI
@@ -51,7 +48,6 @@ Transaction completed at block 3445213 with hash 0x4d25611315488763e583f508c0577
 
 ```console
 srene@macpro project % yarn run ts-node --files ./scripts/BallotDelegate.ts 
-Connected to the address 0x5EE85c2890c2201Ff9E28dEDB70f38aaCC775eB4
 Connected to the blocknumber 3445282
 Connected to the address 0x5EE85c2890c2201Ff9E28dEDB70f38aaCC775eB4
 Balance is 10000000000000000 WEI
@@ -63,10 +59,9 @@ Transaction completed at block 3445284 with hash 0x12820abf24d4c6864cc338afdec91
 
 ```console
 srene@macpro project % yarn run ts-node --files ./scripts/BallotResult.ts  
-Connected to the address 0x5EE85c2890c2201Ff9E28dEDB70f38aaCC775eB4
 Connected to the blocknumber 3445296
 Connected to the address 0x5EE85c2890c2201Ff9E28dEDB70f38aaCC775eB4
 Balance is 9916350999553872 WEI
 The chairperson for this ballot is 0xbC3a67EC1664d540C17Aeb8F6Bea5bA89AdB9e15
-The winning proposal is 0x43686f636f6c6174650000000000000000000000000000000000000000000000
+The winning proposal is Chocolate
 ```
