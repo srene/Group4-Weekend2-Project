@@ -16,10 +16,9 @@ Proposal N. 2: Strawberry
 Proposal N. 3: Vanilla
 Proposal N. 4: Coconut
 The ballot contract was deployed at the address 0xf0345F5c553ac4b48600c60ac4deCFAa9e98e877 at the block number 3444496
-The chairperson for this ballot is 0xbC3a67EC1664d540C17Aeb8F6Bea5bA89AdB9e15
-Giving voting rights to 0x1A433dB77813FA4257452B8aCd14d98C8BecB9Fb
-Transaction completed at block 3444497 with hash 0x7c9684dcd01cf1e1d87010904790c28a313f90cc988937982f4a9bb20b97ae8d
 ```
+
+[Etherscan transaction](https://sepolia.etherscan.io/tx/0x6c30da18e5480ab7ee7f6997106ac0118bd7cb93cb8100d3c213caa26c10f9c9)
 
 ### Voting rights
 
