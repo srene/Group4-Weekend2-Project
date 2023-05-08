@@ -31,7 +31,7 @@ The chairperson for this ballot is 0xbC3a67EC1664d540C17Aeb8F6Bea5bA89AdB9e15
 Giving voting rights to 0x1A433dB77813FA4257452B8aCd14d98C8BecB9Fb
 Transaction completed at block 3444497 with hash 0x7c9684dcd01cf1e1d87010904790c28a313f90cc988937982f4a9bb20b97ae8d
 ```
-[Etherscan transaction](https://sepolia.etherscan.io/tx/0x6c30da18e5480ab7ee7f6997106ac0118bd7cb93cb8100d3c213caa26c10f9c9](https://sepolia.etherscan.io/tx/0x0e3a76edfff8c39ecc9f22ad67949d34cf8095bce522c83468b070ae22adb119)
+[Etherscan transaction](https://sepolia.etherscan.io/tx/0x0e3a76edfff8c39ecc9f22ad67949d34cf8095bce522c83468b070ae22adb119)
 
 ### Vote cast
 
@@ -45,7 +45,7 @@ Voting to proposal 1
 Transaction completed at block 3445213 with hash 0x4d25611315488763e583f508c0577dc8951d52e0e78f88784f08193f347a2179
 ```
 
-[Etherscan transaction]([https://sepolia.etherscan.io/tx/0x6c30da18e5480ab7ee7f6997106ac0118bd7cb93cb8100d3c213caa26c10f9c9](https://sepolia.etherscan.io/tx/0x0e3a76edfff8c39ecc9f22ad67949d34cf8095bce522c83468b070ae22adb119))
+[Etherscan transaction](https://sepolia.etherscan.io/tx/0xe5f897c3bb11c5def0916f8b69d42c63700ebc082348dd1106c1da544c4f12d5)
 
 ### Vote delegation
 
