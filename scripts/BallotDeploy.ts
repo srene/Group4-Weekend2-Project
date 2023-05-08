@@ -40,12 +40,6 @@ async function main() {
   const deployTxReceipt = await ballotContract.deployTransaction.wait();
   //console.log({deployTxReceipt});
   console.log(`The ballot contract was deployed at the address ${ballotContract.address} at the block number ${deployTxReceipt.blockNumber}`)
-  const chairperson = await  ballotContract.chairperson();
-  console.log(`The chairperson for this ballot is ${chairperson}`)
-  console.log(`Giving voting rights to ${ADDRESS}`)
-  const giveRightToVoteTx = await ballotContract.giveRightToVote(ADDRESS);
-  const giveRightToVoteTxReceipt = await giveRightToVoteTx.wait();
-  console.log(`Transaction completed at block ${giveRightToVoteTxReceipt.blockNumber} with hash ${giveRightToVoteTxReceipt.blockHash}`);
 
 }
 
