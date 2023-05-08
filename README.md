@@ -23,7 +23,7 @@ The ballot contract was deployed at the address 0xf0345F5c553ac4b48600c60ac4deCF
 ### Voting rights
 
 ```console
-srene@macpro project % yarn run ts-node --files ./scripts/BallotVote.ts       
+srene@macpro project % yarn run ts-node --files ./scripts/BallotRightToVote.ts       
 Connected to the blocknumber 3445212
 Connected to the address 0xbC3a67EC1664d540C17Aeb8F6Bea5bA89AdB9e15
 The ballot contract was deployed at the address 0xf0345F5c553ac4b48600c60ac4deCFAa9e98e877 at the block number 3444496
