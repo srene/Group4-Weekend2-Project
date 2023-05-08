@@ -2,7 +2,13 @@
  
 ## Ballot Contract Homework
 
+In the scripts folder there are all the scripts used to interact with the Ballot contract.
+We used one script per functionality.
+In the following we show the execution of each functionality:
+
 ### Contract deployment
+
+Script: BallotDeploy.ts
 
 ```console
 srene@macpro project % yarn run ts-node --files ./scripts/Ballot.ts Chocolate Strawberry Vanilla Coconut
@@ -20,7 +26,9 @@ The ballot contract was deployed at the address 0xf0345F5c553ac4b48600c60ac4deCF
 
 [Etherscan transaction](https://sepolia.etherscan.io/tx/0x6c30da18e5480ab7ee7f6997106ac0118bd7cb93cb8100d3c213caa26c10f9c9)
 
-### Voting rights
+### Give Voting rights
+
+Script: BallotRightToVote.ts
 
 ```console
 srene@macpro project % yarn run ts-node --files ./scripts/BallotRightToVote.ts       
@@ -34,6 +42,8 @@ Transaction completed at block 3444497 with hash 0x7c9684dcd01cf1e1d87010904790c
 [Etherscan transaction](https://sepolia.etherscan.io/tx/0x0e3a76edfff8c39ecc9f22ad67949d34cf8095bce522c83468b070ae22adb119)
 
 ### Vote cast
+
+Script: BallotVote.ts
 
 ```console
 srene@macpro project % yarn run ts-node --files ./scripts/BallotVote.ts       
@@ -49,6 +59,8 @@ Transaction completed at block 3445213 with hash 0x4d25611315488763e583f508c0577
 
 ### Vote delegation
 
+Script: BallotDelegate.ts
+
 ```console
 srene@macpro project % yarn run ts-node --files ./scripts/BallotDelegate.ts 
 Connected to the blocknumber 3445282
@@ -61,6 +73,8 @@ Transaction completed at block 3445284 with hash 0x12820abf24d4c6864cc338afdec91
 [Etherscan transaction](https://sepolia.etherscan.io/tx/0x66c2eb18e4fb6ea7e92898b7b50b4d2662dd8bf5079602c537ccd08293ea469d)
 
 ### Votation result
+
+Script: BallotResult.ts
 
 ```console
 srene@macpro project % yarn run ts-node --files ./scripts/BallotResult.ts  
